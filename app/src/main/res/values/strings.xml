@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NearbyPlaces</string>
+    <string name="description">Image description</string>
+    <string name="open_now">Open Now</string>
+    <string name="closed">Closed</string>
+    <string name="rating">"Rating: "</string>
+</resources>
